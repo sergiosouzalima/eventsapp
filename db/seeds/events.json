@@ -1,0 +1,14 @@
+[
+  {
+    "kind": "Symposium",
+    "start_at": "2019-02-01",
+    "finish_at": "2019-02-05",
+    "title": "A Social-Neuroscience Perspective on Empathy"
+  },
+  {
+    "kind": "Symposium",
+    "start_at": "2019-02-12",
+    "finish_at": "2019-02-13",
+    "title": "The Dev Conference"
+  }
+]
